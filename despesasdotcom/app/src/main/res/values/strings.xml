@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Despesas.com</string>
+    <string name="home_title">Início</string>
+    <string name="earnings_title">Ganhos</string>
+    <string name="expenses_title">Gastos</string>
+    <string name="dreams_title">Sonhos</string>
+    <string name="account_balance">Valor em conta</string>
+    <string name="description_label">Descrição</string>
+    <string name="value_label">Valor</string>
+    <string name="month_label">Mês</string>
+    <string name="select_month">Selecione o mês</string>
+    <string name="add_earning">Adicionar Ganho</string>
+    <string name="add_expense">Adicionar Gasto</string>
+    <string name="add_dream">Adicionar Sonho</string>
+    <string name="current_balance">Saldo atual: %s</string>
+    <string name="dream_meta">Meta: %s</string>
+    <string name="dream_progress">%d%% completo</string>
+    <string name="dream_input_hint">O que você quer?</string>
+    <string name="dream_value_hint">Valor necessário</string>
+    <string name="currency_prefix">R$ </string>
+</resources>
