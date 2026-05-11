@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Contatos ViaCEP</string>
+    <string name="title_contatos">Contatos</string>
+    <string name="title_novo_contato">Novo Contato</string>
+    <string name="title_editar_contato">Editar Contato</string>
+    <string name="empty_list">Nenhum contato cadastrado</string>
+    <string name="delete_confirm_title">Excluir Contato</string>
+    <string name="delete_confirm_msg">Tem certeza que deseja excluir este contato?</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_telefone">Telefone</string>
+    <string name="label_nascimento">Data de Nascimento</string>
+    <string name="label_cep">CEP</string>
+    <string name="label_bairro">Bairro</string>
+    <string name="label_logradouro">Logradouro</string>
+    <string name="label_numero">Número</string>
+    <string name="label_estado">Estado</string>
+    <string name="label_cidade">Cidade</string>
+</resources>
